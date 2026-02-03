@@ -1,0 +1,12 @@
+# dataset path
+path: /home/Exp_paper/RTDETR-main/dataset/
+train: ./images/train
+val: ./images/val
+test: ./images/test
+
+# number of classes
+nc: 1
+
+# class names
+names:
+  0: Lungnodule
